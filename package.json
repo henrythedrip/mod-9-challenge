@@ -1,0 +1,14 @@
+{
+  "name": "mod-9-challenge",
+  "version": "1.0.0",
+  "description": "AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
