@@ -35,6 +35,6 @@ N/A
 
 ## Questions
 
-There is no email provided
+Please contact me with further questions at henry@genericemail.com
 
 [GitHub User: henrythedrip](https://github.com/henrythedrip/)
