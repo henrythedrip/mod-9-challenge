@@ -180,6 +180,7 @@ function createTemplate(answers) {
 # ${answers.title}
 
 ## [Table of Contents](#table-of-contents)
+  - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -187,6 +188,7 @@ function createTemplate(answers) {
   - [Tests](#tests)
   - [Questions](#questions)
 
+## Description
 
 ${answers.description}
 

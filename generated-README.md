@@ -1,9 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# README.md-Generator
+# README-generator
 
 ## [Table of Contents](#table-of-contents)
-  - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -11,17 +10,16 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-## Description
 
-This is a README.md Generator that was developed as classwork for the University Of Utah Full Stack Web Development Coding Bootcamp.
+this is a README generator and it creates a professional readme file with everything a user needs.
 
 ## Installation
 
-You need to have Node installed in order to use this program. You also need to have the dependencies installed using `npm i`
+first you need node, you need to clone the repo and you need to install the dependencies and run in the commandline with `node script.js`
 
 ## Usage
 
-This program is run in the command line using `node script.js`
+you use the program in the commandline with `node script.js` and you answer the questions
 
 ## License
 
@@ -30,14 +28,14 @@ Please refer to the license badge at the top of this document.
 
 ## Contributing
 
-N/A
+you can send me lots of money.
 
 ## Tests
 
-N/A
+they don't
 
 ## Questions
 
-Please contact me with further questions at henry@genericemail.com
+Please reach out to me with additional questions at this email address: henry@email.com
 
 [GitHub User: henrythedrip](https://github.com/henrythedrip/)
