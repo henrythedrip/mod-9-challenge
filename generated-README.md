@@ -3,6 +3,7 @@
 # README-generator
 
 ## [Table of Contents](#table-of-contents)
+  - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -10,6 +11,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
+## Description
 
 this is a README generator and it creates a professional readme file with everything a user needs.
 
